@@ -1,5 +1,11 @@
 # 🌸 Iris Flower Classification
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![CodeAlpha](https://img.shields.io/badge/Internship-CodeAlpha-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+# 🌸 Iris Flower Classification
+
 A Machine Learning project developed for the **CodeAlpha Data Science Internship**. This project uses the **Random Forest Classifier** to classify Iris flowers into three different species based on their sepal and petal measurements.
 
 ---
