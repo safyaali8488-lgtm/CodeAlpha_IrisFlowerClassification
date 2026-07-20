@@ -161,12 +161,3 @@ CodeAlpha Data Science Intern
 
 GitHub:
 https://github.com/safyaali8488-lgtm
-![Dataset Preview](screenshots/dataset_preview.png)
-
-![Dataset Information](screenshots/dataset_info.png)
-
-![Accuracy](screenshots/accuracy.png)
-
-![Classification Report](screenshots/classification_report.png)
-
-![Confusion Matrix](screenshots/confusion_matrix.png)
